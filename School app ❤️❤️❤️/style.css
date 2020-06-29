@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas{
+    border: 2px solid black;
+  }
+.hackedPPS{
+    display:flex;
+    justify-content: space-evenly;
+    border-color: aqua;
+    color: aqua;
+
+}   
+ a:visited{
+     color: aqua;
+ }
